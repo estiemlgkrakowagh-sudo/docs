@@ -1,0 +1,69 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Estiem LG Krakow Knowledge Hub",
+  "colors": {
+    "primary": "#00673E",
+    "light": "#60d2a4",
+    "dark": "#00492c"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Dysk Google",
+          "icon": "book-open-cover",
+          "href": "https://drive.google.com/drive/u/0/folders/1lt4crqtIRvh_rSG8ghDbhz3Gt_pK6Gam"
+        }
+      ]
+    },
+    "anchors": [
+      {
+        "anchor": "Kalendarz "
+      }
+    ]
+  },
+  "logo": {
+    "light": "/images/c2f8f721-9079-4f58-9d26-22a997ee1c6e.jpg",
+    "dark": "/images/Naszelogo^^(1).png"
+  },
+  "navbar": {
+    "links": [
+      {
+        "href": "https://www.facebook.com/amalgund#",
+        "label": "Support strony"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.mintlify.com"
+    }
+  },
+  "contextual": {
+    "options": [
+     "copy",
+     "view",
+     "chatgpt",
+     "claude",
+     "perplexity",
+     "mcp",
+     "cursor",
+     "vscode"
+   ]
+  },
+  "footer": {
+    "socials": {
+      "linkedin": "https://www.linkedin.com/company/estiem-lg-krak%C3%B3wagh/",
+      "instagram": "https://www.instagram.com/estiemkrakow/"
+    }
+  },
+  "search": {
+    "prompt": "Szukasz czegoś...?"
+  },
+  "banner": {
+    "content": "🌍 Znajdź event dla siebie! [Zobacz dostępne eventy](https://my.estiem.org/events)",
+    "dismissible": true
+  }
+}
