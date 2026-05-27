@@ -18,9 +18,92 @@
         }
       ]
     },
-    "anchors": [
+    "tabs": [
       {
-        "anchor": "Kalendarz "
+        "tab": "NOWI CZŁONKOWIE",
+        "icon": "hand-wave",
+        "pages": [
+          "witaj-w-estiem-lg-krakow",
+          "faq-nowego-czlonka",
+          {
+            "group": "Czym jest ESTIEM?",
+            "pages": [
+              "historia-i-misja",
+              "siec-europejska",
+              "typy-eventow-globalnych"
+            ]
+          },
+          {
+            "group": "Jak możesz się zaangażować?",
+            "pages": [
+              "wyjazdy-za-granice",
+              "dzialalnosc-w-grupie-projektowej",
+              "organizacja-eventow-lokalnych"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "LG KRAKÓW",
+        "icon": "house-chimney",
+        "pages": [
+          {
+            "group": "O nas",
+            "pages": [
+              "nasza-historia",
+              "misja-i-wartosci",
+              "struktura-grupy",
+              "jak-wyglada-rok-w-lg",
+              {
+                "group": "Aktualny zarząd",
+                "pages": [
+                  "rola1",
+                  "rola2",
+                  "rola3",
+                  "rola4",
+                  "rola5",
+                  "rola6"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "ESTIEM centralny",
+            "pages": [
+              "struktura-estiem",
+              "nasz-danubian-region",
+              "jak-zaczac-dzialac-centralnie"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "KNOWLEDGE HUB",
+        "icon": "swatchbook",
+        "groups": [
+          {
+            "group": "Administracja",
+            "pages": [
+              "jak-zalozyc-konto",
+              "jak-nawigowac-strona-estiem"
+            ]
+          },
+          {
+            "group": "Eventy",
+            "pages": [
+              "jak-zorganizowac-wymiane",
+              "jak-zorganizowac-inny-typ-eventu",
+              "jak-nie-oglupiec-organizujac-cos"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Kontakt",
+        "icon": "phone",
+        "pages": [
+          "untitled-page"
+        ]
       }
     ]
   },
