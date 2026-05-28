@@ -20,17 +20,26 @@
     },
     "tabs": [
       {
+        "tab": "START",
+        "pages": [
+          "witaj-w-bazie-wiedzy-lg-krakow",
+          "jak-korzystac-z-tej-bazy"
+        ]
+      },
+      {
         "tab": "NOWI CZŁONKOWIE",
         "icon": "hand-wave",
         "pages": [
           "witaj-w-estiem-lg-krakow",
           "faq-nowego-czlonka",
+          "twoja-sciezka-onboardingu",
           {
             "group": "Czym jest ESTIEM?",
             "pages": [
               "historia-i-misja",
               "siec-europejska",
-              "typy-eventow-globalnych"
+              "typy-eventow-globalnych",
+              "danubian-region"
             ]
           },
           {
@@ -93,8 +102,31 @@
             "pages": [
               "jak-zorganizowac-wymiane",
               "jak-zorganizowac-inny-typ-eventu",
-              "jak-nie-oglupiec-organizujac-cos"
+              "jak-nie-oglupiec-organizujac-cos",
+              "checklist-organizacji-eventu"
             ]
+          },
+          {
+            "group": "Członkowie",
+            "pages": [
+              "handover-zarzadu-1",
+              "onboarding-nowego-czlonka-1",
+              "rekrutacja-1"
+            ]
+          },
+          {
+            "group": "Współpraca z AGH",
+            "pages": [
+              "jak-uzyskac-dofinansowanie"
+            ]
+          },
+          {
+            "group": "Dokumenty",
+            "pages": []
+          },
+          {
+            "group": "Archiwum eventów i raporty",
+            "pages": []
           }
         ]
       },
@@ -102,7 +134,7 @@
         "tab": "Kontakt",
         "icon": "phone",
         "pages": [
-          "untitled-page"
+          "kontakt"
         ]
       }
     ]
