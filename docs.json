@@ -120,11 +120,16 @@
           },
           {
             "group": "Dokumenty",
-            "pages": []
+            "pages": [
+              "regulamin"
+            ]
           },
           {
             "group": "Archiwum eventów i raporty",
-            "pages": []
+            "pages": [
+              "event-organisation-mastersheets",
+              "raporty"
+            ]
           }
         ]
       },
