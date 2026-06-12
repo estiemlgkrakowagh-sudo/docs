@@ -183,5 +183,8 @@
   "banner": {
     "content": "🌍 Znajdź event dla siebie! [Zobacz dostępne eventy](https://my.estiem.org/events)",
     "dismissible": true
+  },
+  "background": {
+    "decoration": "gradient"
   }
 }
